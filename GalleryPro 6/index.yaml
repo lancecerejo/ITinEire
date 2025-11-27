@@ -1,0 +1,6 @@
+indexes:
+- kind: post_data
+  properties:
+  - name: email
+  - name: createdtime
+    direction: desc
